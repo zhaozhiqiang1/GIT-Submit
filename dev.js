@@ -6,3 +6,4 @@ class Search {
       this.value = value
    }	
 }
+const sch = new Search;
